@@ -159,15 +159,15 @@ html {
 .doctor .top_doctor .text{
     width: 60%;
     text-align: center;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .doctor .top_doctor .text h4{
     color: #AE1E22;
-    font-size: 6.2vw;
+    font-size: 6.1vw;
     line-height: 1.1;
 }
 .doctor .top_doctor .text h5{
-    font-size: 3vw;
+    font-size: 3.3vw;
     margin-top: 10px;
 }
 
